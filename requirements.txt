@@ -1,0 +1,16 @@
+# local package
+-e .
+
+# external requirements
+pandas
+numpy
+pathlib
+matplotlib
+plotly
+statsmodels
+tenssorflow
+keras
+joblib
+pmdarima
+scikit-learn
+ipykernel
