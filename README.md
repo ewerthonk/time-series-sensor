@@ -1,4 +1,4 @@
-Time Series Machine Learning - Medical Equipment Sensor
+# Time Series Machine Learning - Medical Equipment Sensor
 
 *Predicting time series behavior for sensors in an equipment.*
 
