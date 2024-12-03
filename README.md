@@ -1,6 +1,10 @@
 # Time Series Machine Learning - Medical Equipment Sensor
 
-*Predicting time series behavior for sensors in an equipment.*
+<div align="center">
+  <em>Predicting time series behavior for sensors in an equipment.</em>
+</div>
+
+<br>
 
 <div align="center">
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
