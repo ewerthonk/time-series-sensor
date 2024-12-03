@@ -12,7 +12,7 @@
 <img src="https://img.shields.io/badge/keras-%23D00000.svg?style=for-the-badge&logo=keras&logoColor=white">
 </div>
 
-# 📖 Project
+## 📖 Project
 
 ### 👨🏻‍🏫 Introduction
 
@@ -36,16 +36,16 @@ Best performing models achieved an RMSE of **0.17** for Helium level and **7.46*
 
 ![Features](references/dataset.png)
 
-# 🗺  Methodology
+## 🗺  Methodology
 
 ![Methodology](references/methodology.png)
 
-# 🗄 Notebooks
+## 🗄 Notebooks
 
 - [1.0-eda.ipynb](notebooks/1.0-eda.ipynb)
 - [2.0-ml_modeling.ipynb](notebooks/2.0-ml_modeling.ipynb)
 
-# 📦 Folder Structure
+## 📦 Folder Structure
 
     ├── LICENSE
     ├── poetry.lock        <- file with poetry packages from the environment
